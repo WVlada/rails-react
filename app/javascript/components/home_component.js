@@ -11,6 +11,7 @@ const Home = () => {
         <div>
           <Link to="/login">Log In</Link>
           <br></br>
+          <div className="btn">daisyUI button</div>
           <Link to="/signup">Sign Up</Link>
         </div>
       )}
